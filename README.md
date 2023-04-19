@@ -7,6 +7,7 @@ Votre Product Owner vous confie l'US suivante:
 > - Je veux pouvoir trier les résultats par titre, ou par la note Rotten Tomatoes, la note IMDB, ou le nombre de votes sur IMDB.
 > - Je veux pouvoir consulter tous les détails d'un film spécifique
 > - Je veux pouvoir reprendre rapidement ma recherche après avoir consulté les détails d'un film
+> - Je veux pouvoir accéder à l'historique des films que j'ai consulté
 
 Vous devez fournir aux utilisateurs une interface web répondant aux besoins exprimés par le PO. 
 Pour cela, vous avez accès à une API de recherche de films. Le test consiste à fournir une interface de recherche très simple qui exploite les données de cette API.
